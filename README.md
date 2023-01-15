@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ellen Júlia 👋❤
-📚 Sou estudante de Análise e desenvolvimento de sistemas pela FSA.
-💻 Atualmente faço cursos de profissionalização em programação pela Alura.
+<p> 📚 Sou estudante de Análise e desenvolvimento de sistemas pela FSA. </p>
+<p> 💻 Atualmente faço cursos de profissionalização em programação pela Alura. </p>
 
 ##
 
